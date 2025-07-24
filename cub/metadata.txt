@@ -1,0 +1,13 @@
+{"question": "Does the bird in the picture have purple upperparts and purple underparts?", "answer": "No", "image": "016.Painted_Bunting/Painted_Bunting_0071_15209.jpg", "width": 400, "height": 500, "bboxs": [[55.0, 70.0, 389.0, 493.0]], "dataset": "cub", "split": "train"}
+
+{"question": "Does the bird in the picture have black eye and grey forehead?", "answer": "Yes", "image": "082.Ringed_Kingfisher/Ringed_Kingfisher_0108_73169.jpg", "width": 500, "height": 392, "bboxs": [[154.0, 123.0, 300.0, 227.0]], "dataset": "cub", "split": "train"}
+
+{"question": "Does the bird in the picture have yellow back and grey leg?", "answer": "No", "image": "103.Sayornis/Sayornis_0036_98323.jpg", "width": 415, "height": 500, "bboxs": [[113.0, 153.0, 277.0, 422.0]], "dataset": "cub", "split": "train"}
+
+{"question": "Does the bird in the picture have white throat and white underparts?", "answer": "Yes", "image": "064.Ring_billed_Gull/Ring_Billed_Gull_0017_51412.jpg", "width": 333, "height": 500, "bboxs": [[66.0, 43.0, 290.0, 445.0]], "dataset": "cub", "split": "train"}
+
+{"question": "Does the bird in the picture have grey nape and spotted head?", "answer": "No", "image": "098.Scott_Oriole/Scott_Oriole_0005_92362.jpg", "width": 500, "height": 374, "bboxs": [[159.0, 88.0, 300.0, 275.0]], "dataset": "cub", "split": "train"}
+
+{"question": "Does the bird in the picture have orange bill and black crown?", "answer": "Yes", "image": "145.Elegant_Tern/Elegant_Tern_0004_150948.jpg", "width": 500, "height": 333, "bboxs": [[122.0, 99.0, 459.0, 283.0]], "dataset": "cub", "split": "train"}
+
+{"question": "Does the bird in the picture have red wing and orange belly?", "answer": "No", "image": "066.Western_Gull/Western_Gull_0094_55156.jpg", "width": 500, "height": 395, "bboxs": [[126.0, 107.0, 464.0, 329.0]], "dataset": "cub", "split": "train"}

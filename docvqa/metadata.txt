@@ -1,0 +1,31 @@
+{"question": "When is the mail date?", "answer": "6/9/97", "possible_answers": ["6/9/97"], "image": "qnlw0023_6.png", "width": 1692, "height": 2245, "bboxs": [[273, 685, 470, 715]], "dataset": "docvqa", "split": "train"}
+{"question": "What is the program number?", "answer": "701269", "possible_answers": ["701269"], "image": "qnlw0023_6.png", "width": 1692, "height": 2245, "bboxs": [[252, 721, 487, 751]], "dataset": "docvqa", "split": "train"}
+{"question": "What is the quantity mentioned?", "answer": "160,000", "possible_answers": ["160,000"], "image": "qnlw0023_6.png", "width": 1692, "height": 2245, "bboxs": [[407, 648, 534, 681]], "dataset": "docvqa", "split": "train"}
+
+{"question": "What is the factory name ?", "answer": "Longmont", "possible_answers": ["Longmont", "LONGMONT"], "image": "jgph0227_6.png", "width": 1644, "height": 2159, "bboxs": [[85, 342, 508, 384], [85, 342, 508, 384]], "dataset": "docvqa", "split": "train"}
+{"question": "What is the chemical formula for Calcium ?", "answer": "Ca", "possible_answers": ["Ca"], "image": "jgph0227_6.png", "width": 1644, "height": 2159, "bboxs": [[468, 458, 861, 492], [1012, 834, 1455, 865], [32, 927, 97, 951], [858, 927, 919, 954], [30, 991, 125, 1018], [303, 990, 339, 1015], [854, 1022, 1060, 1055], [32, 1154, 200, 1183], [857, 1156, 1215, 1188], [858, 1224, 1038, 1254], [1122, 1225, 1196, 1255], [853, 1253, 1069, 1288], [1117, 1257, 1205, 1285], [852, 1288, 1073, 1320], [1118, 1288, 1244, 1319], [850, 1322, 1061, 1353]], "dataset": "docvqa", "split": "train"}
+{"question": "What is the title of the document ?", "answer": "WATER ANALYSIS", "possible_answers": ["Water analysis", "WATER ANALYSIS"], "image": "jgph0227_6.png", "width": 1644, "height": 2159, "bboxs": [[582, 197, 1055, 245], [582, 197, 1055, 245]], "dataset": "docvqa", "split": "train"}
+
+{"question": "Which University is mentioned in the letter head?", "answer": "Vanderbilt University", "possible_answers": ["VANDERBILT UNIVERSITY", "Vanderbilt University"], "image": "rtnb0228_1.png", "width": 1792, "height": 2289, "bboxs": [[669, 151, 1111, 179], [669, 151, 1111, 179]], "dataset": "docvqa", "split": "train"}
+{"question": "What percent dose of B12 is excreted by Martha Carlin as per the study?", "answer": "74", "possible_answers": ["74"], "image": "rtnb0228_1.png", "width": 1792, "height": 2289, "bboxs": [[1286, 1224, 1331, 1252]], "dataset": "docvqa", "split": "train"}
+{"question": "Who is the addressee of this letter?", "answer": "DR, Darby:", "possible_answers": ["DR. WILLIAM J. DARBY", "Dr. William J. Darby", "DR, Darby:"], "image": "rtnb0228_1.png", "width": 1792, "height": 2289, "bboxs": [[309, 476, 654, 509], [309, 476, 654, 509], [308, 677, 567, 715]], "dataset": "docvqa", "split": "train"}
+
+{"question": "What is the date mentioned in the invoice?", "answer": "1-24-61", "possible_answers": ["1-24-61"], "image": "mtmg0227_3.png", "width": 1786, "height": 1179, "bboxs": [[1256, 406, 1398, 438]], "dataset": "docvqa", "split": "train"}
+{"question": "What is the total invoice amount given?", "answer": "1626.00", "possible_answers": ["1626.00"], "image": "mtmg0227_3.png", "width": 1786, "height": 1179, "bboxs": [[1419, 786, 1562, 819]], "dataset": "docvqa", "split": "train"}
+{"question": "What is the Order No. given in the invoice?", "answer": "36948", "possible_answers": ["36948"], "image": "mtmg0227_3.png", "width": 1786, "height": 1179, "bboxs": [[1196, 256, 1500, 288]], "dataset": "docvqa", "split": "train"}
+
+{"question": "What is the cost estimate for Health Policy Ins. Core Support for 1988?", "answer": "40,000", "possible_answers": ["40,000"], "image": "fthw0228_25.png", "width": 1773, "height": 2278, "bboxs": [[868, 915, 971, 949], [1383, 1052, 1488, 1085], [1551, 1054, 1659, 1086]], "dataset": "docvqa", "split": "train"}
+{"question": "What is the cost estimate for Nursing Recruitment/Training for 1989?", "answer": "200,000", "possible_answers": ["200,000"], "image": "fthw0228_25.png", "width": 1773, "height": 2278, "bboxs": [[1026, 1189, 1154, 1224]], "dataset": "docvqa", "split": "train"}
+{"question": "What is the cost estimate for Biomedical Development Corp. for 1988?", "answer": "100,000", "possible_answers": ["100,000"], "image": "fthw0228_25.png", "width": 1773, "height": 2278, "bboxs": [[854, 1189, 985, 1225], [855, 1327, 982, 1362], [1012, 1325, 1151, 1361]], "dataset": "docvqa", "split": "train"}
+
+{"question": "What is the Name?", "answer": "Engle, Patricia L.", "possible_answers": ["Engle, Patricia L."], "image": "nghd0227_12.png", "width": 1774, "height": 2254, "bboxs": [[205, 398, 530, 431]], "dataset": "docvqa", "split": "train"}
+{"question": "When was she in Wellesley College, Wellesley, Mass.?", "answer": "1966", "possible_answers": ["1966"], "image": "nghd0227_12.png", "width": 1774, "height": 2254, "bboxs": [[1038, 652, 1111, 679]], "dataset": "docvqa", "split": "train"}
+{"question": "What is the Major REsearch Interest?", "answer": "Cognitive Development", "possible_answers": ["Cognitive Development"], "image": "nghd0227_12.png", "width": 1774, "height": 2254, "bboxs": [[202, 939, 582, 970]], "dataset": "docvqa", "split": "train"}
+
+{"question": "Which year is mentioned at left top of the page?", "answer": "1985", "possible_answers": ["1985"], "image": "lgmk0079_24.png", "width": 2145, "height": 1695, "bboxs": [[141, 111, 337, 178], [1840, 215, 2119, 255]], "dataset": "docvqa", "split": "train"}
+{"question": "What is the \"% Pop.\" value for  \"Green Bay\" Division?", "answer": ".72", "possible_answers": [".72"], "image": "lgmk0079_24.png", "width": 2145, "height": 1695, "bboxs": [[466, 622, 506, 659]], "dataset": "docvqa", "split": "train"}
+{"question": "What is the \"% Pop.\" value for \"Chicago\" Division?", "answer": "3.39", "possible_answers": ["3.39"], "image": "lgmk0079_24.png", "width": 2145, "height": 1695, "bboxs": [[442, 824, 512, 858]], "dataset": "docvqa", "split": "train"}
+
+
+
+

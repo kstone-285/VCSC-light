@@ -1,0 +1,13 @@
+{"question": "what airline does the plane belong to?", "answer": "united", "image": "11bfb854683ef695.jpg", "width": 1024, "height": 768, "bboxs": [[471.43939208984375, 409.9010009765625, 667.4709167480469, 451.1281900405884]], "dataset": "textvqa", "split": "train"}
+
+{"question": "which page is the page on the right on?", "answer": "clxxxv", "image": "0310822ffb3699d4.jpg", "width": 1024, "height": 689, "bboxs": [[810.4569091796875, 54.69633000344038, 875.3339385986328, 69.6401534024626]], "dataset": "textvqa", "split": "train"}
+
+{"question": "what is the name of the book?", "answer": "the saint goes on", "image": "6a4acaaebaa143b3.jpg", "width": 639, "height": 1024, "bboxs": [[82.35304985940456, 97.57404327392578, 258.6520874351263, 179.23155975341797], [268.0647805631161, 96.33979034423828, 555.7634279429913, 184.8128890991211], [117.39379025995731, 180.44171142578125, 368.77637980878353, 256.25370025634766], [376.574949324131, 183.17579650878906, 517.909449800849, 258.8252487182617], [270.2880925834179, 439.4482421875, 313.45380172133446, 472.2848815917969]], "dataset": "textvqa", "split": "train"}
+
+{"question": "what is the catchphrase at the bottom of the book?", "answer": "flexibility for the future", "image": "a4721119fec66ad6.jpg", "width": 1024, "height": 899, "bboxs": [[58.106109619140625, 699.6797392368317, 139.24451446533203, 725.6736838668585], [140.64183044433594, 700.6411001086235, 174.44968795776367, 727.2180449217558], [174.65968322753906, 700.8876427412033, 209.30299758911133, 726.5294998697937], [210.7697296142578, 700.8041579723358, 271.8263282775879, 729.6943556144834]], "dataset": "textvqa", "split": "train"}
+
+{"question": "what brand of marker are the black ones?", "answer": "sharpie", "image": "023232c2030de30a.jpg", "width": 1024, "height": 768, "bboxs": [[542.5238037109375, 236.38025665283203, 584.5183219909668, 256.95296716690063]], "dataset": "textvqa", "split": "train"}
+
+{"question": "what is the name of this theme park?", "answer": "window on china", "image": "9330ee35cdd1bb2e.jpg", "width": 1024, "height": 768, "bboxs": [[40.77486801147461, 251.91696166992188, 135.99812698364258, 309.1772346496582], [236.43511962890625, 350.8305358886719, 549.3701171875, 404.981237411499], [573.81787109375, 345.7193069458008, 692.3459167480469, 402.2097759246826], [710.6143798828125, 347.9490966796875, 959.8256225585938, 402.3874568939209]], "dataset": "textvqa", "split": "train"}
+
+{"question": "what is the trucks website?", "answer": "kojakitchen.com", "image": "43c80607ec7aac0c.jpg", "width": 1024, "height": 768, "bboxs": [[242.56752014160156, 187.85507583618164, 406.4075164794922, 231.28331851959229]], "dataset": "textvqa", "split": "train"}
